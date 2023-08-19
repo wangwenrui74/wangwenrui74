@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @wangwenrui74
 - 👀 I’m interested in Python.I’m currently learning Python.
-- 🌱 Computer Science student with a passion for Python. Keen on exploring data science and machine learning.
+- 🌱 Computer Science student with a passion for Python.
+- 👋 Keen on exploring data science and machine learning.
